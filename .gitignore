@@ -1,0 +1,5 @@
+/target
+
+# Zed extension
+extension.wasm
+grammars
