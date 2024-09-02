@@ -3,7 +3,7 @@ name = "Ruby Sorbet"
 version = "0.0.1"
 schema_version = 1
 authors = ["Cuong Vuong <cuongvuong.phoenix@gmail.com>"]
-description = "Ruby Sorbet LSP for Zed editor"
+description = "Ruby Sorbet extension for Zed editor"
 repository = "https://github.com/cuongvuong-phoenix/zed-ruby-sorbet"
 
 [language_servers.ruby-sorbet]
